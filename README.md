@@ -1,4 +1,5 @@
-# Registro Unificado de Victimas del Terrorismo de Estado
+Registro Unificado de Victimas del Terrorismo de Estado
+=======================================================
 
 Registro unificado del listado de Víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato) y del listado de casos en investigación incluidos en el listado de la Conadep, sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.
 
@@ -19,18 +20,18 @@ Características
 
 -   **Frecuencia de Actualización:** Eventual
 
-Recursos
---------
+Recursos Disponibles
+--------------------
 
-**Listado de víctimas de terrorismo de estado**
+###Listado de víctimas de terrorismo de estado
 
--   **Nombre:** victimas-terrorismo-estado.csv
+-   **Nombre del archivo:** victimas-terrorismo-estado.csv
 
--   **Descripción:** Listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato)..
+-   **Descripción del contenido:** Listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato)..
 
 -   **Formato:** CSV delimitado por comas
 
-**Campos del recurso**
+###Campos del recurso
 
 -   **anio_denuncia (int):** Año de alta original de la denuncia en los registros que hoy constituyen el Ruvte
 
@@ -63,7 +64,7 @@ Recursos
 -   **fotografia (string):** Información sobre si obra fotografía de la víctima en base de datos
 
 
-**Listado de víctimas de terrorismo de Estado sin denuncia formal**
+###Listado de víctimas de terrorismo de Estado sin denuncia formal
 
 -   **Nombre:** victimas-terrorismo-estado-sin-denuncia-formal.csv
 
@@ -71,7 +72,7 @@ Recursos
 
 -   **Formato:** CSV delimitado por comas
 
-**Campos del recurso**
+###Campos del recurso
 
 -   **anio_denuncia (int):** Año de alta original de la denuncia en los registros que hoy constituyen el Ruvte
 
