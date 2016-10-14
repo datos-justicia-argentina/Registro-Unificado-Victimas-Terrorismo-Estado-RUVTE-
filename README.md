@@ -20,7 +20,7 @@ Características
 
 -   **Frecuencia de Actualización:** Eventual
 
-Recursos Disponibles
+Recursos disponibles
 --------------------
 
 ###Listado de víctimas de terrorismo de estado
@@ -35,7 +35,7 @@ Recursos Disponibles
 
 -   **anio_denuncia (int):** Año de alta original de la denuncia en los registros que hoy constituyen el Ruvte
 
--   **tipificacion_ruvte (string):** Tipificación principal del caso según el Ruvte (víctima de desaparición forzada o víctima de asesinato), a la que se agregan observaciones que en algunos casos especifican la fuente, y en otros, actualizaciones de estado (por ejemplo, exhumados e identificados sus restos, entre otras).
+-   **tipificacion_ruvte (string):** Tipificación principal del caso según el Ruvte (víctima de desaparición forzada o víctima de asesinato), a la que se agregan observaciones que en algunos casos especifican la fuente, y en otros, actualizaciones de estado (por ejemplo, exhumados e identificados sus restos, entre otras)
 
 -   **id_unico_ruvte (string):** Número de identificación del caso individual
 
@@ -106,5 +106,4 @@ Recursos Disponibles
 
 -   **fuente_original (string):** fuente original de la denuncia, en base a la cual fue incluida en el listado de la Conadep de 1984
 
-Notas
------
+
