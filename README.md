@@ -16,7 +16,7 @@ Características
 
 - **Responsable:** Registro Unificado de Víctimas del Terrorismo de Estado
 
-- **Grupos:** Derechos Humanos
+- **Grupo:** Derechos Humanos
 
 - **Frecuencia de Actualización:** Eventual
 
