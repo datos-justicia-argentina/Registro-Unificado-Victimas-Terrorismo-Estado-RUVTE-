@@ -107,4 +107,6 @@ Recursos disponibles
 
 - **fuente_original (string):** fuente original de la denuncia, en base a la cual fue incluida en el listado de la Conadep de 1984
 
+### Notas
 
+El Registro unificado de víctimas del terrorismo de Estado (Ruvte) se formalizó como Programa mediante la Resolución 1261/2014 del Ministerio de Justicia y Derechos Humanos de la Nación.
