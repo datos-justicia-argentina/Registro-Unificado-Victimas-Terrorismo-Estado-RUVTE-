@@ -14,7 +14,8 @@ Características
 
 - **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado
 
-- **Responsable:** Registro Unificado de Víctimas del Terrorismo de Estado
+- **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado
+
 
 - **Grupo:** Derechos Humanos
 
