@@ -1,4 +1,4 @@
-Registro Unificado de Victimas del Terrorismo de Estado
+Registro Unificado de Victimas del Terrorismo de Estado -RUVTE-
 =======================================================
 
 Registro unificado del listado de Víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato) y del listado de casos en investigación incluidos en el listado de la Conadep, sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.
@@ -8,7 +8,7 @@ Características
 
 - **Fecha de Publicación:**30/09/2016
 
-- **Tags o Etiquetas:** víctimas, terrorismo, desaparición, desaparecidos, represión
+- **Tags o Etiquetas:** víctimas, desaparición forzada, desaparecidos, represión
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado
 
@@ -24,9 +24,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de víctimas de terrorismo de estado
+### Listado de víctimas del accionar represivo ilegal
 
-- **Nombre del archivo:** victimas-terrorismo-estado.csv
+- **Nombre del archivo:** victimas-accionar-represivo-ilegal.csv
 
 - **Descripción del contenido:** Listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato)
 
@@ -65,9 +65,9 @@ Recursos disponibles
 - **fotografia (string):** Información sobre si obra fotografía de la víctima en base de datos
 
 
-### Listado de víctimas de terrorismo de Estado sin denuncia formal
+### Listado de víctimas del accionar represivo ilegal sin denuncia formal
 
-- **Nombre:** victimas-terrorismo-estado-sin-denuncia-formal.csv
+- **Nombre:** victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv
 
 - **Descripción:** Listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”
 
