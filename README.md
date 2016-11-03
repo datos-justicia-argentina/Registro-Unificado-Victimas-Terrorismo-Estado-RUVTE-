@@ -110,3 +110,9 @@ Recursos disponibles
 ### Notas
 
 El Registro unificado de víctimas del terrorismo de Estado (Ruvte) se formalizó como Programa mediante la Resolución 1261/2014 del Ministerio de Justicia y Derechos Humanos de la Nación.
+
+[“Listado de víctimas del accionar represivo ilegal de Estado argentino (A-K)”](http://www.jus.gob.ar/media/3120900/2._anexo_i___listado_de_v_ctimas_de_desap_forzada_y_asesinato___a_-_k.pdf)
+
+[“Listado de víctimas del accionar represivo ilegal de Estado argentino (L-Z)”](http://www.jus.gob.ar/media/3120903/2._anexo_i___listado_de_v_ctimas_de_desap_forzada_y_asesinato___l_-_z.pdf)
+
+[“Listado de casos sin denuncia formal”](http://www.jus.gob.ar/media/3122374/3._anexo_ii___listado_de_casos_sin_dcia_formal.pdf)
