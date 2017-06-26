@@ -28,82 +28,86 @@ Recursos disponibles
 
 - **Nombre del archivo:** victimas-accionar-represivo-ilegal.csv
 
-- **Descripción del contenido:** Listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato)
+- **Descripción del contenido:** listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato)
 
-- **Formato:** CSV delimitado por comas
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
-- **anio_denuncia (int):** Año de alta original de la denuncia en los registros que hoy constituyen el Ruvte
+- **anio_denuncia (int):** año de alta original de la denuncia en los registros que hoy constituyen el Ruvte
 
-- **tipificacion_ruvte (string):** Tipificación principal del caso según el Ruvte (víctima de desaparición forzada o víctima de asesinato), a la que se agregan observaciones que en algunos casos especifican la fuente, y en otros, actualizaciones de estado (por ejemplo, exhumados e identificados sus restos, entre otras)
+- **tipificacion_ruvte (string):** tipificación principal del caso según el Ruvte (víctima de desaparición forzada o víctima de asesinato), a la que se agregan observaciones que en algunos casos especifican la fuente, y en otros, actualizaciones de estado (por ejemplo, exhumados e identificados sus restos, entre otras)
 
-- **id_unico_ruvte (string):** Número de identificación del caso individual
+- **id_unico_ruvte (string):** número de identificación del caso individual
 
-- **apellido_paterno_nombres (string):** Apellido paterno y nombres de pila de la víctima
+- **apellido_paterno_nombres (string):** apellido paterno y nombres de pila de la víctima
 
-- **apellido_materno (string):** Apellido materno
+- **apellido_materno (string):** apellido materno
 
-- **apellido_casada (string):** Apellido de casada
+- **apellido_casada (string):** apellido de casada
 
-- **edad_al_momento_del_hecho (string):** Edad al momento del hecho (al momento de su deceso, o, en su defecto, de su “desaparición”)
+- **edad_al_momento_del_hecho (string):** edad al momento del hecho (al momento de su deceso, o, en su defecto, de su “desaparición”)
 
-- **documentos (string):** Tipo y número de documento
+- **documentos (string):** tipo y número de documento
 
-- **anio_nacimiento (string):** Año de nacimiento
+- **anio_nacimiento (string):** año de nacimiento
 
-- **provincia_pais_nacimiento (string):** Provincia de nacimiento (o país para el caso de ciudadanos extranjeros)
+- **provincia_pais_nacimiento (string):** provincia de nacimiento (o país para el caso de ciudadanos extranjeros)
 
-- **nacionalidad (string):** Nacionalidad de la víctima
+- **nacionalidad (string):** nacionalidad de la víctima
 
-- **embarazo (string):** Datos sobre el embarazo de la víctima y sobre el destino del niño nacido en cautiverio
+- **embarazo (string):** datos sobre el embarazo de la víctima y sobre el destino del niño nacido en cautiverio
 
-- **fecha_lugar_detencion_secuestro (string):** Fecha y lugar de detención-secuestro de la víctima
+- **fecha_lugar_detencion_secuestro (string):** fecha y lugar de detención-secuestro de la víctima
 
-- **fecha_lugar_asesinato_o_hallazgo_de_restos (string):** Fecha y lugar de asesinato, fallecimiento o hallazgo de los restos de la víctima
+- **fecha_lugar_asesinato_o_hallazgo_de_restos (string):** fecha y lugar de asesinato, fallecimiento o hallazgo de los restos de la víctima
 
-- **fotografia (string):** Información sobre si obra fotografía de la víctima en base de datos
+- **fotografia (string):** información sobre si obra fotografía de la víctima en base de datos
 
 
 ### Listado de víctimas del accionar represivo ilegal sin denuncia formal
 
 - **Nombre:** victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv
 
-- **Descripción:** Listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”
+- **Descripción:** listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”
 
-- **Formato:** CSV delimitado por comas
+- **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
-- **anio_denuncia (int):** Año de alta original de la denuncia en los registros que hoy constituyen el Ruvte
+- **anio_denuncia (int):** año de alta original de la denuncia en los registros que hoy constituyen el Ruvte
 
-- **tipificacion_ruvte (string):** Tipificación principal del caso según el Ruvte (víctima de desaparición forzada o víctima de asesinato), a la que se agregan observaciones que en algunos casos especifican la fuente, y en otros, actualizaciones de estado (por ejemplo, exhumados e identificados sus restos, entre otras)
+- **tipificacion_ruvte (string):** tipificación principal del caso según el Ruvte (víctima de desaparición forzada o víctima de asesinato), a la que se agregan observaciones que en algunos casos especifican la fuente, y en otros, actualizaciones de estado (por ejemplo, exhumados e identificados sus restos, entre otras)
 
-- **id_unico_ruvte (string):** Número de identificación del caso individual
+- **id_unico_ruvte (string):** número de identificación del caso individual
 
-- **apellido_paterno_nombres (string):** Apellido paterno y nombres de pila de la víctima
+- **apellido_paterno_nombres (string):** apellido paterno y nombres de pila de la víctima
 
-- **apellido_materno (string):** Apellido materno
+- **apellido_materno (string):** apellido materno
 
-- **apellido_casada (string):** Apellido de casada
+- **apellido_casada (string):** apellido de casada
 
-- **edad_al_momento_del_hecho (string):** Edad al momento del hecho (al momento de su deceso, o, en su defecto, de su “desaparición”)
+- **edad_al_momento_del_hecho (string):** edad al momento del hecho (al momento de su deceso, o, en su defecto, de su “desaparición”)
 
-- **documentos (string):** Tipo y número de documento
+- **documentos (string):** tipo y número de documento
 
-- **anio_nacimiento (string):** Año de nacimiento
+- **anio_nacimiento (string):** año de nacimiento
 
-- **provincia_pais_nacimiento (string):** Provincia de nacimiento (o país para el caso de ciudadanos extranjeros)
+- **provincia_pais_nacimiento (string):** provincia de nacimiento (o país para el caso de ciudadanos extranjeros)
 
-- **nacionalidad (string):** Nacionalidad de la víctima
+- **nacionalidad (string):** nacionalidad de la víctima
 
-- **embarazo (string):** Datos sobre el embarazo de la víctima y sobre el destino del niño nacido en cautiverio
+- **embarazo (string):** datos sobre el embarazo de la víctima y sobre el destino del niño nacido en cautiverio
 
-- **fecha_lugar_detencion_secuestro (string):** Fecha y lugar de detención-secuestro de la víctima
+- **fecha_lugar_detencion_secuestro (string):** fecha y lugar de detención-secuestro de la víctima
 
-- **fecha_lugar_asesinato_o_hallazgo_de_restos (string):** Fecha y lugar de asesinato, fallecimiento o hallazgo de los restos de la víctima
+- **fecha_lugar_asesinato_o_hallazgo_de_restos (string):** fecha y lugar de asesinato, fallecimiento o hallazgo de los restos de la víctima
 
-- **fotografia (string):** Información sobre si obra fotografía de la víctima en base de datos
+- **fotografia (string):** información sobre si obra fotografía de la víctima en base de datos
 
 - **fuente_original (string):** fuente original de la denuncia, en base a la cual fue incluida en el listado de la Conadep de 1984
 
