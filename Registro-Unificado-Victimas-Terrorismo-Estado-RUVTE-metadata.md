@@ -6,7 +6,7 @@ Registro unificado del listado de Víctimas del accionar represivo ilegal del Es
 Características
 ---------------
 
-- **Fecha de Primera Publicación:**30/09/2016
+- **Fecha de Primera Publicación:** 30/09/2016
 
 - **Tags o Etiquetas:** víctimas, desaparición forzada, desaparecidos, represión
 
