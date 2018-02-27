@@ -72,7 +72,7 @@ Recursos disponibles
 
 - **Nombre:** victimas-accionar-represivo-ilegal-sin-denuncia-formal.csv
 
-- **Descripción:** listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”
+- **Descripción del contenido:** se detalla el listado de casos en investigación incluidos en el listado de la Conadep sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
