@@ -3,19 +3,20 @@ Registro Unificado de Victimas del Terrorismo de Estado -RUVTE-
 
 Registro unificado del listado de Víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato) y del listado de casos en investigación incluidos en el listado de la Conadep, sin denuncia formal ante la Secretaría de Derechos Humanos y Pluralismo Cultural de la Nación, que revisten la categoría de “presunción de desaparición forzada”.
 
+http://datos.jus.gob.ar/dataset/registro-unificado-de-victimas-del-terrorismo-de-estado-ruvte
+
 Características
 ---------------
 
 - **Fecha de Primera Publicación:** 30/09/2016
 
-- **Tags o Etiquetas:** víctimas, desaparición forzada, desaparecidos, represión
+- **Tags o Etiquetas:** víctimas, desapariciones forzadas, desaparecidos, represión
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado
 
 - **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado
 
 - **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Derechos Humanos y Pluralismo Cultural. Registro Unificado de Víctimas del Terrorismo de Estado
-
 
 - **Grupo:** Derechos Humanos
 
@@ -28,7 +29,7 @@ Recursos disponibles
 
 - **Nombre del archivo:** victimas-accionar-represivo-ilegal.csv
 
-- **Descripción del contenido:** listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato)
+- **Descripción del contenido:** se detalla el listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983 (víctimas de desaparición forzada y de asesinato)
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
