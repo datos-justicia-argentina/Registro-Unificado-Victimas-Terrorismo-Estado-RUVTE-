@@ -121,3 +121,5 @@ El Registro unificado de víctimas del terrorismo de Estado (Ruvte) se formaliz�
 [“Listado de víctimas del accionar represivo ilegal de Estado argentino (L-Z)”](http://www.jus.gob.ar/media/3120903/2._anexo_i___listado_de_v_ctimas_de_desap_forzada_y_asesinato___l_-_z.pdf)
 
 [“Listado de casos sin denuncia formal”](http://www.jus.gob.ar/media/3122374/3._anexo_ii___listado_de_casos_sin_dcia_formal.pdf)
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
