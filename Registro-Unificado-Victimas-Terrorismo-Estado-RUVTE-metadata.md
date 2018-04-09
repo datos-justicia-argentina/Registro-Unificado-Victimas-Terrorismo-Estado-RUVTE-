@@ -33,7 +33,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** listado de víctimas del accionar represivo ilegal del Estado argentino entre 1966 y 1983
 
 ### Campos del recurso
 
