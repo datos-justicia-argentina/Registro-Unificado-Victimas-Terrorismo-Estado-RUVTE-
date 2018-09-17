@@ -55,7 +55,9 @@ Recursos disponibles
 
 - **anio_nacimiento (string):** año de nacimiento
 
-- **provincia_pais_nacimiento (string):** provincia de nacimiento (o país para el caso de ciudadanos extranjeros)
+- **provincia_nacimiento (string):** provincia de nacimiento (solo para el caso de ciudadanos nacidos en Argentina)
+
+- **provincia_pais_nacimiento (string):** país de nacimiento
 
 - **nacionalidad (string):** nacionalidad de la víctima
 
@@ -66,6 +68,10 @@ Recursos disponibles
 - **fecha_lugar_asesinato_o_hallazgo_de_restos (string):** fecha y lugar de asesinato, fallecimiento o hallazgo de los restos de la víctima
 
 - **fotografia (string):** información sobre si obra fotografía de la víctima en base de datos
+
+- **provincia_nacimiento_indec_id (string):** provincia de nacimiento (solo para el caso de ciudadanos nacidos en Argentina), según la codificación de provincia implementada por INDEC
+
+- **provincia_pais_nacimiento_indec_id (string):** país de nacimiento, según la codificación de país implementada por INDEC.
 
 
 ### Listado de víctimas del accionar represivo ilegal sin denuncia formal
