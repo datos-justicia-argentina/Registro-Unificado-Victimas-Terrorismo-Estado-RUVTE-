@@ -57,7 +57,7 @@ Recursos disponibles
 
 - **provincia_nacimiento (string):** provincia de nacimiento (solo para el caso de ciudadanos nacidos en Argentina)
 
-- **provincia_pais_nacimiento (string):** país de nacimiento
+- **pais_nacimiento (string):** país de nacimiento
 
 - **nacionalidad (string):** nacionalidad de la víctima
 
@@ -71,7 +71,7 @@ Recursos disponibles
 
 - **provincia_nacimiento_indec_id (string):** provincia de nacimiento (solo para el caso de ciudadanos nacidos en Argentina), según la codificación de provincia implementada por INDEC
 
-- **provincia_pais_nacimiento_indec_id (string):** país de nacimiento, según la codificación de país implementada por INDEC.
+- **pais_nacimiento_indec_id (string):** país de nacimiento, según la codificación de país implementada por INDEC.
 
 
 ### Listado de víctimas del accionar represivo ilegal sin denuncia formal
@@ -104,7 +104,9 @@ Recursos disponibles
 
 - **anio_nacimiento (string):** año de nacimiento
 
-- **provincia_pais_nacimiento (string):** provincia de nacimiento (o país para el caso de ciudadanos extranjeros)
+- **provincia_nacimiento (string):** provincia de nacimiento (solo para el caso de ciudadanos nacidos en Argentina)
+
+- **pais_nacimiento (string):** país de nacimiento
 
 - **nacionalidad (string):** nacionalidad de la víctima
 
@@ -117,6 +119,10 @@ Recursos disponibles
 - **fotografia (string):** información sobre si obra fotografía de la víctima en base de datos
 
 - **fuente_original (string):** fuente original de la denuncia, en base a la cual fue incluida en el listado de la Conadep de 1984
+
+- **provincia_nacimiento_indec_id (string):** provincia de nacimiento (solo para el caso de ciudadanos nacidos en Argentina), según la codificación de provincia implementada por INDEC
+
+- **pais_nacimiento_indec_id (string):** país de nacimiento, según la codificación de país implementada por INDEC.
 
 ### Notas
 
